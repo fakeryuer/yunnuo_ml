@@ -1,5 +1,5 @@
 ## 云诺 基于对公司业务部门的机器学习课程分享
-
+![ML介绍](什么是DL.jpg)
 ## 远程直播间 [链接](https://k.vkaijiang.com/product/course?courseID=212854 )
 
 ## 目录
@@ -13,6 +13,7 @@
 7. 华为SoftCOM AI平台应用和介绍
 
 ## 案例
+ 
 
 
 > * KNN算法介绍鸢尾花数据集预测
